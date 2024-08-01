@@ -1,30 +1,30 @@
 const products = [
   {
     id: 1,
-    name: "iPhone 12 Pro",
+    name: "iPhone 15",
     brand: "Apple",
     desc: "6.1-inch display",
     price: 999,
     image:
-      "https://res.cloudinary.com/chaoocharles/image/upload/v1629289889/online-shop/iphone12pro_e09phn.jpg",
+      "https://res.cloudinary.com/dmyh9mzbq/image/upload/v1722509239/iphone15_csrs8q.jpg",
   },
   {
     id: 2,
-    name: "iPhone 12",
+    name: "iPhone 14 Pro Max",
     brand: "Apple",
-    desc: "5.4-inch mini display",
-    price: 699,
+    desc: "6.7-inch display",
+    price: 900,
     image:
-      "https://res.cloudinary.com/chaoocharles/image/upload/v1629289889/online-shop/iphone12_efhrcp.jpg",
+      "https://res.cloudinary.com/dmyh9mzbq/image/upload/v1722509236/iphone14_sru3ty.webp",
   },
   {
     id: 3,
-    name: "Galaxy S",
+    name: "SAMSUNG Galaxy S24 Ultra",
     brand: "Samsung",
-    desc: "6.5-inch display",
-    price: 399,
+    desc: "6.8-inch display",
+    price: 1247,
     image:
-      "https://res.cloudinary.com/chaoocharles/image/upload/v1629289889/online-shop/galaxyS_dvjf5w.png",
+      "https://res.cloudinary.com/dmyh9mzbq/image/upload/v1722509240/samsungGalaxy_w4cqs9.jpg",
   },
 ];
 

@@ -3,13 +3,13 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 
 import Home from "./components/Home";
-import NavBar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 import NotFound from "./components/NotFound";
 import Cart from "./components/cart";
 
 import "react-toastify/dist/ReactToastify.css";
-import Register from "./components/auth/Register";
-import Login from "./components/auth/Login";
+import Register from "./components/auth/Register.jsx";
+import Login from "./components/auth/Login.jsx";
 import { useEffect } from "react";
 import { useDispatch } from "react-redux";
 import { loadUser } from "./slices/authSlice";
